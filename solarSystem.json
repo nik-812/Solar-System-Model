@@ -1,0 +1,105 @@
+{
+  "information": [
+    {
+	"name": "THE SUN",
+	"size": 1391400,
+     	"orbit": 0,
+     	"distance": 1391400,
+	"message": 
+	"The Sun is the star around which all of the planets in the Solar System \norbit. It is a yellow dwarf star, and is 4.5 billion years old. The whole \nSolar System is kept together due to the gravity of The Sun; without it, \nthere would be no potential for life here. It is made up of the first 2 \nelements in the periodic table; Hydrogen and Helium. The core of The Sun \nis the hottest part, with temperatures above 15 million degrees. The object \nrepresenting The Sun is not shown to the same scale as the planets in \nthis model. This is because The Sun is so large that if it were given the \nsame proportional ratio, all the planets would be tiny– almost invisible– \nin comparison."
+    },
+    {
+     	"name": "MERCURY",
+     	"size": 4879,
+     	"orbit": 47.87,
+     	"distance": 57900000,
+	"message": 
+	"Mercury is the planet closest to The Sun in the Solar System. From Mercury, \nThe Sun would seem over 3 times larger as it appears from Earth, and the \nsunlight would be up to 7 times brighter. Mercury is also the smallest \nplanet, and is actually only slightly larger than Earth's moon; although, \nMercury does not possess any moons of its own. "
+    },
+    {
+    	"name": "VENUS",
+     	"size": 12104,
+     	"orbit": 35.02,
+     	"distance": 108200000,
+	"message": 
+	"Venus is the hottest planet in the Solar System, and the planet closest to \nEarth. Its foggy appearance comes from the thick clouds of sulphuric acid \nin its atmosphere. It rotates backwards in comparison to most of the \nplanets in the Solar System. Venus was the first extraterrestrial planet to \nbe explored by spacecraft. Just like Mercury, Venus does not possess any \nmoons."
+    },
+    {
+      	"name": "EARTH",
+     	"size": 12756,
+      	"orbit": 29.78,
+      	"distance": 149600000,
+	"message": 
+	"Earth is our home planet, and the only planet in the Solar System that can \nsustain life. It is the only planet with liquid water on its surface. Earth \nis the largest of the four rocky planets, and is the third planet from The \nSun. It has one moon, which we simply refer to as 'the moon'."
+    },
+    {
+      	"name": "MARS",
+      	"size": 6792,
+      	"orbit": 24.077,
+      	"distance": 227900000,
+	"message":
+	"Mars is the fourth planet from The Sun. It is the most explored \nextraterrestrial planet in the Solar System, due to its past and future \npotential to support life. There are currently several rovers and \nspacecrafts roaming and exploring Mars, sent from multiple countries. Mars \nis also known as the 'Red Planet', as the rusted iron minerals in its soil \ngive it a reddish appearance. Mars has two moons named Phobos and Deimos."
+    },
+    {
+      	"name": "JUPITER",
+      	"size": 142984,
+      	"orbit": 13.07,
+      	"distance": 778600000,
+	"message":
+	"Jupiter is by far the largest planet in the Solar System. It over twice as \nmassive as all the other planets combined. Jupiter is the closest gas giant \nto The Sun. It is most recognizable by its 'Great Red Spot' which is \nactually a gigantic storm twice the size of Earth. Jupiter has faint rings, \nand possesses over 75 moons. Its main four moons are called Callisto, \nGanymede, Io and Europa."
+    },
+    {
+      	"name": "SATURN",
+      	"size": 120536,
+      	"orbit": 9.69,
+      	"distance": 1433500000,
+	"message":
+	"Saturn is the sixth planet from The Sun, and the planet with the most \nprominent rings in the Solar System. Saturn has seven rings made of ice and \nrock, and is the second-largest planet in the Solar System. The planet \nitself is made up mostly of Hydrogen and Helium. There have been very few \nmissions to visit Saturn. It possesses 53 known moons– with 29 more \nawaiting confirmation. Its main moons are known as Mimas, Dione, Rhea, \nTethys and Titan."
+    },
+    {
+      	"name": "URANUS",
+      	"size": 51118,
+      	"orbit": 6.81,
+      	"distance": 2872500000,
+	"message":
+	"Uranus is the second-furthest planet from The Sun. It has 13 known rings. \nLike Venus, Uranus rotates backwards, but unlike all the other planets, it \nrotates on its side. Uranus is an ice giant made up of water, methane and \nammonia, and has a small rocky core. No spacecrafts have orbited the planet \nor explored it up close. Uranus has 27 known moons, with the main ones \nbeing named Miranda, Ariel, Umbriel, Titania and Oberon."
+    },
+    {
+      	"name": "NEPTUNE",
+      	"size": 49528,
+     	"orbit": 5.43,
+      	"distance": 4495100000,
+	"message":
+	"Neptune is the furthest planet from The Sun, and like Uranus, is an ice \ngiant. It has at least 5 rings, and is the only planet invisible to the \nnaked eye from Earth. Neptune was the first planet discovered through \nmathematical calculations. The methane in the planet's atmosphere gives it \nthe same blue colour as Uranus. Neptune has 14 known moons; the main one is \nknown as Triton."
+    }
+  ],
+  "sprites": [
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    },
+    {
+	"images": []
+    }
+  ]
+}
